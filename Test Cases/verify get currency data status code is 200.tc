@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify get currency data status code is 200</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4f8328d-4674-404d-8ac9-ce3bccec5688</testCaseGuid>
+</TestCaseEntity>

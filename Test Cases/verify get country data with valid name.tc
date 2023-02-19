@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify get country data with valid name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddd47540-fb87-463a-ba6f-96a6bc98cba5</testCaseGuid>
+</TestCaseEntity>
